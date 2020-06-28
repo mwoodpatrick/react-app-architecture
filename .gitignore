@@ -109,6 +109,9 @@ dist
 .DS_Store
 config.js
 
-# compliled by webpack
+# compiled by webpack
 dist
 build
+
+# vi temporary files
+*.swp
